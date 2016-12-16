@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Project S4\Project S4\Project S4\bin\Debug\Project S4.exe.config
+C:\Users\USER\Desktop\Project S4\Project S4\Project S4\bin\Debug\Project S4.exe
+C:\Users\USER\Desktop\Project S4\Project S4\Project S4\bin\Debug\Project S4.pdb
+C:\Users\USER\Desktop\Project S4\Project S4\Project S4\obj\Debug\Project S4.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Project S4\Project S4\Project S4\obj\Debug\Project_S4.Form1.resources
+C:\Users\USER\Desktop\Project S4\Project S4\Project S4\obj\Debug\Project_S4.Properties.Resources.resources
+C:\Users\USER\Desktop\Project S4\Project S4\Project S4\obj\Debug\Project S4.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Project S4\Project S4\Project S4\obj\Debug\Project S4.exe
+C:\Users\USER\Desktop\Project S4\Project S4\Project S4\obj\Debug\Project S4.pdb
+C:\Users\USER\Desktop\Project S4\Project S4\Project S4\obj\Debug\Project_S4.Login.resources
